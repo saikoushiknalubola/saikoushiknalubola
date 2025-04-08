@@ -1,5 +1,116 @@
 # 💫 About Me:
- 💡 Saikoushik Nalubola  <br> 🚀 Student | Developer | Innovator  <br><br>Hello there! I'm Saikoushik Nalubola, a passionate B.Tech Computer Science and Engineering student specializing in AI, Robotics, and Machine Learning. I thrive on creating impactful projects, solving real-world problems, and contributing to open-source communities.  <br><br><br>🛠️ Skills & Expertise  <br>⚙️ Technical Skills  <br>- Programming Languages: Python, JavaScript, C++, Java <br>- AI/ML Tools: TensorFlow, PyTorch, Scikit-Learn  <br>- Web Development: HTML, CSS, JavaScript, React, Bootstrap  <br>- Other Tools: Docker, Git, IBM Watson, Google Cloud Platform (GCP)  <br><br> 🌟 About Me  <br> 🔭I’m currently working on:<br>  - Developing a Solar-Powered Autonomous Water Purification Drone to address water pollution.  <br>  - Enhancing Garuda OS, a secure, privacy-focused Android-based OS.  <br><br>👯 I’m looking to collaborate on:  <br>  - Open-source AI and robotics projects.  <br>  - Innovative solutions in green technology and smart mobility.  <br><br>🤝 I’m looking for help with:<br>  - Advanced drone navigation systems and AI-driven autonomous solutions.  <br>  - Insights into scaling secure OS for broader device compatibility.  <br><br> 🌱 I’m currently learning:  <br>  - Generative AI technologies and applications.  <br>  - Advanced robotics and IoT integrations.  <br><br>💬 Ask me about:<br>  - AI/ML for real-world problem-solving.  <br>  - Sustainable tech innovations.  <br>  - Developing secure and privacy-first systems.  <br><br>⚡ Fun fact:  <br>  > "I converted an old motorcycle into an electric bike with a reverse mode—because sometimes, innovation goes backward to move forward!"  <br><br>💼 Projects & Work  <br>🚀 Key Projects  <br>- [Garuda OS](#)**: A secure, privacy-focused Android-based OS.  <br>- Solar-Powered Autonomous Water Purification Drone**: Addressing water pollution with eco-friendly technology.  <br>- Adaptive Traffic Signal Control System**: Leveraging AI to optimize urban traffic management.  <br><br>## 🤝 Let's Connect!  <br>- 🌐 **[Linktree](https://linktr.ee/saikoushiknalubola)**  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/saikoushik-nalubola)  <br>- 🛠️ [Portfolio](https://saikoushiknalubola.github.io/) <br><br>Feel free to explore my repositories and connect with me for collaborations, internships, or tech discussions! 🌟 
+💡 **Saikoushik Nalubola**  
+🚀 *Developer | AI & Robotics Enthusiast | Open-Source Contributor | Privacy Advocate*
+
+Hey, I’m Saikoushik Nalubola – a Computer Science & Engineering student (B.Tech) who breathes code and bleeds innovation. I specialize in **AI, Robotics, and Sustainable Tech**, and I’m on a mission to build systems that are not just smart — but **ethical, scalable, and meaningful**.
+
+Whether it’s deploying an autonomous drone, cooking up an AI model, or launching a secure OS — I’m always shipping. If it solves a real-world problem and makes someone say “whoa” — I’m probably working on it.  
+
+---
+
+## 🛠️ Skills & Expertise
+
+**💻 Programming Languages**  
+`Python` | `JavaScript` | `C++` | `Java` | `HTML/CSS`
+
+**🤖 AI/ML & Data Science**  
+`TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas` | `NumPy` | `OpenCV`
+
+**🌐 Web Dev**  
+`React.js` | `Node.js` | `Bootstrap` | `Express.js` | `Firebase` | `MongoDB`
+
+**☁️ Cloud & DevOps**  
+`Docker` | `Git & GitHub` | `Google Cloud Platform (GCP)` | `IBM Watson`
+
+**🔧 Tools & IDEs**  
+`VS Code` | `Jupyter` | `Figma` | `Arduino` | `ROS` | `Android Studio`
+
+---
+
+## 🚀 Key Projects
+
+### 🔐 Garuda OS  
+> **A Privacy-First Android-Based Operating System**  
+- Built using AOSP, CalyxOS, and GrapheneOS inspirations  
+- Hardened security configurations, no Google dependencies  
+- Focused on data freedom and device-level encryption  
+- Goal: Cross-device compatibility and open-source community adoption  
+
+### 💧 Solar-Powered Autonomous Water Purification Drone  
+> **Because water doesn’t clean itself — but AI can help**  
+- Solar-powered drone with object-detection & water-quality sensors  
+- Autonomous navigation using AI pathfinding & obstacle avoidance  
+- Real-time data transmission + dashboard integration  
+- Targeting municipal & rural deployment for clean water access  
+
+### 🚦 Adaptive Traffic Signal Control System  
+> **Smarter Cities, Less Waiting**  
+- AI-driven traffic light control using real-time vehicle flow analysis  
+- Built using computer vision (OpenCV) + ML prediction models  
+- Simulated using SUMO and custom traffic datasets  
+- Reduced average wait time by ~40% in simulations  
+
+### 🤖 AI Farming Assistant  
+> **Helping farmers with precision, not just predictions**  
+- Built a voice-based chatbot to give crop suggestions & pest warnings  
+- Integrated soil-quality mapping & weather forecasting APIs  
+- Designed for low-data usage & regional language support  
+- Deployed prototype in AgriTech hackathon (Top 5 finalist)
+
+---
+
+## 🧠 Currently Exploring
+
+- **Generative AI**: Using LLMs for multilingual education & voice assistants  
+- **Drone Swarming Algorithms**: For coordinated disaster management  
+- **Secure Mobile OS Dev**: Making Garuda OS scalable for mass use  
+- **FOSS**: Actively contributing to open-source projects in AI & privacy
+
+---
+
+## 👯 Open to Collaborate On
+
+- AI/ML research or open-source tools  
+- Robotics automation and embedded systems  
+- Green tech, smart mobility, and IoT projects  
+- Privacy-first software & ethical tech tools
+
+---
+
+## 📚 Always Learning
+
+- Generative AI with Google & OpenAI tools  
+- Large Language Models (LLMs)  
+- Reinforcement Learning & Sim2Real Robotics  
+- Full-stack development with Next.js & DevOps pipelines  
+
+---
+
+## 💬 Ask Me About
+
+- Building AI-powered real-world prototypes  
+- Balancing innovation with sustainability  
+- Getting into robotics as a student  
+- Creating secure, minimal Android systems  
+- Winning hackathons while barely sleeping 😅
+
+---
+
+## ⚡ Fun Fact
+
+> I turned an old bike into an **electric one with reverse gear**. Why?  
+> Because even innovation sometimes needs to **back up before launching forward.**
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌐 [**Linktree**](https://linktr.ee/saikoushiknalubola)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/saikoushik-nalubola)  
+- 🛠️ [**Portfolio**](https://saikoushiknalubola.github.io/)  
+- 📫 [**GitHub Repos**](https://github.com/saikoushiknalubola)
+
+> **Check out my pinned projects, star what you love, and let’s build something that actually matters!**  
 
 
 ## 🌐 Socials:
